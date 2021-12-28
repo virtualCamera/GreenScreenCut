@@ -1,5 +1,6 @@
 # GreenScreenCut
 绿幕去除
+```
 #include <opencv2/core.hpp>
 #include <opencv2/imgproc.hpp>
 #include <opencv2/highgui.hpp>
@@ -72,3 +73,4 @@ int main()
 	}
 	return 0;
 }
+```
